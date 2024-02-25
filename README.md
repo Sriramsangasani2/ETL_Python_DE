@@ -1,3 +1,9 @@
+
+Services - Azure
+Code = Python
+Structed - All layers and transformation and reports
+confid - account and access
+
 Ecommerce – Will be a source layer.
 
 Lakehouse 
