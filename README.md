@@ -17,6 +17,8 @@ We can access to azure storage account by access key -
 Manage all permissions using service principle and user or group level access to Lakehouse.
 Python code – reuse 
 config file 
+testing on silver level for transformation
+
 
 
 
