@@ -7,9 +7,13 @@ confid - account and access
 Ecommerce – Will be a source layer.
 
 Lakehouse 
+
 Landing – same as a source layer
+
 raw – raw data with timestamp 
+
 Silver – add upset logic and new data will show here (compares pervious data and current data)
+
 Gold – aggregation example: total new customers in a year.
 
 There is a log file to show all log and can trackers.
